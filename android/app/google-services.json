@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "413768302578",
+    "project_id": "burgerapp-73d42",
+    "storage_bucket": "burgerapp-73d42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413768302578:android:161fa72d9af39527a9f56b",
+        "android_client_info": {
+          "package_name": "com.example.foodsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413768302578-omls2tv44d7s0rntf64lprg3gsgson01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodsapp",
+            "certificate_hash": "48c11ce248df89907bdd38f0e5072ccd1d9c8262"
+          }
+        },
+        {
+          "client_id": "413768302578-gpq1t5mtcnidnmj6g9s7t5cct5sg7v16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX4xbO9EO2y6ZkBuBullR_nf3pl8J7jaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413768302578-gpq1t5mtcnidnmj6g9s7t5cct5sg7v16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
